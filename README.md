@@ -1,5 +1,5 @@
 # Stock market Investment prediction
-# Designing a Minimum viable product Solution for Financial Consultation (FC), Toronto by DSSC
+## Designing a Minimum viable product Solution for Financial Consultation (FC), Toronto by DSSC
 
 ## Problem Statement:
   The challenge is creating a machine-learning model to forecast the stock market and make data-driven predictions. Financial Institutions may speed their decisions to enhance client satisfaction and make data-driven decisions while lowering the default risk factor using this ML model.
@@ -37,7 +37,7 @@ This project is performed in weekly sprints; hence, weekly updates are provided 
 
 
 
-### Architecture: 
+## Architecture: 
  In-progress
 
 
@@ -46,11 +46,11 @@ This project is performed in weekly sprints; hence, weekly updates are provided 
 
 
 
-#### How to tweak this project to your use:
+## How to tweak this project to your use:
 Since this is a product-centric project, we encourage you to clone and rename the project for personalized usage. 
  
-##### Find a bug:
+## Find a bug:
 If you find an issue or would recommend improvements, please submit an issue using the issue tab above. Also, if you would like to recommend or submit a fix, your collaboration is appreciated.
 
-###### Known Issues:
+## Known Issues:
 In-Progress
